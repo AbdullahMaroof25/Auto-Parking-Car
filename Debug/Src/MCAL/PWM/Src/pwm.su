@@ -1,0 +1,5 @@
+pwm.c:5:6:PWM_Init	4	static
+pwm.c:27:6:PWM_Start	16	static
+pwm.c:72:6:Tim2_Init	4	static
+pwm.c:77:6:Tim2_Start	4	static
+pwm.c:81:5:Tim2_Read	4	static

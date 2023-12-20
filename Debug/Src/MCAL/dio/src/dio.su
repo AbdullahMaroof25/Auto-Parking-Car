@@ -1,0 +1,6 @@
+dio.c:47:17:DIO_setupPinMode	24	static
+dio.c:97:17:DIO_writePin	24	static
+dio.c:203:17:DIO_togglePin	24	static
+dio.c:253:17:DIO_readPin	24	static
+dio.c:308:17:DIO_activateInternal	24	static
+dio.c:358:17:DIO_setAlternateFunction	24	static
